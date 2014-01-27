@@ -2,9 +2,9 @@
 	"id" : "myMod",
 	"name" : "My Mod",
 	"version" : "0.1.0",
-	"author" : "John Doe <john@example.com>",
-	"description" : "Example Mod",
-	"url" : "http://www.example.com",
+	"author" : "Caleb Taylor",
+	"description" : "My mod",
+	"url" : "github.com/hondotaylor/Mymod",
 	"main" : "./myScript.js",
 	"dependencies" : {
 		"gdt-modAPI":"0.1.x"
