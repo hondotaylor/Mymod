@@ -1,9 +1,12 @@
 {
-        "id" : "mymod",
-        "name" : "mymod",
-        "version":"0.0.1",
-        "author":"myself",
-        "url":"https://github.com/greenheartgames/gdt-modAPI",
-        "description" : "My first mod",
-        "main" : "./mymod.js"
+	"id" : "myMod",
+	"name" : "My Mod",
+	"version" : "0.1.0",
+	"author" : "John Doe <john@example.com>",
+	"description" : "Example Mod",
+	"url" : "http://www.example.com",
+	"main" : "./myScript.js",
+	"dependencies" : {
+		"gdt-modAPI":"0.1.x"
+	}
 }
