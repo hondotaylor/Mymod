@@ -1,0 +1,9 @@
+{
+        "id" : "mymod",
+        "name" : "mymod",
+        "version":"0.0.1",
+        "author":"myself",
+        "url":"https://github.com/greenheartgames/gdt-modAPI",
+        "description" : "My first mod",
+        "main" : "./mymod.js"
+}
